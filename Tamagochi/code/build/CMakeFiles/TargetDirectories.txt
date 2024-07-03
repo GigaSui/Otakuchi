@@ -1,0 +1,5 @@
+/home/giga-sui/Documents/Dev/Git_projects/Tamagotaku/Tamagochi/code/build/CMakeFiles/project.dir
+/home/giga-sui/Documents/Dev/Git_projects/Tamagotaku/Tamagochi/code/build/CMakeFiles/package.dir
+/home/giga-sui/Documents/Dev/Git_projects/Tamagotaku/Tamagochi/code/build/CMakeFiles/package_source.dir
+/home/giga-sui/Documents/Dev/Git_projects/Tamagotaku/Tamagochi/code/build/CMakeFiles/edit_cache.dir
+/home/giga-sui/Documents/Dev/Git_projects/Tamagotaku/Tamagochi/code/build/CMakeFiles/rebuild_cache.dir
