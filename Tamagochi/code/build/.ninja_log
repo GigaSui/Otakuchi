@@ -1,0 +1,11 @@
+# ninja log v5
+19	79	1719852023447287615	CMakeFiles/project.dir/src/reactions.c.o	df575e3a4b2af60c
+19	55	1719848501793649106	CMakeFiles/project.dir/src/choices.c.o	e4a95f608394a230
+1	18	0	/home/giga-sui/Documents/Dev/Git_projects/Tamagotaku/Tamagochi/code/build/CMakeFiles/cmake.verify_globs	1fb2fb87010bddbb
+18	75	1719852023443287595	CMakeFiles/project.dir/src/choice_character.c.o	38de3d4b2c2ee388
+18	78	1719852023447287615	CMakeFiles/project.dir/src/main.c.o	9864c7d559d1e0
+53	85	1719852128787815574	project	782567e325ae1d9
+18	53	1719852128755815413	CMakeFiles/project.dir/src/choice_anime.c.o	ec58b39ffa60c0c8
+1	18	0	/home/giga-sui/Documents/Dev/Git_projects/Tamagotaku/Tamagochi/code/build/CMakeFiles/cmake.verify_globs	1fb2fb87010bddbb
+18	54	1719852241036385096	CMakeFiles/project.dir/src/choice_anime.c.o	ec58b39ffa60c0c8
+54	86	1719852241068385259	project	782567e325ae1d9
