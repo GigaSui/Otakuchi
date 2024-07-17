@@ -14,6 +14,9 @@ git clone https://github.com/GigaSui/Otakuchi.git
 ```
 
 ## Usage
+### Text version of the tamagochi
+![Employee data](img/Screenshot_text.png)
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch: `git checkout -b dev`.
