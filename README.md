@@ -15,7 +15,7 @@ git clone https://github.com/GigaSui/Otakuchi.git
 
 ## Usage
 ### Text version of the tamagochi
-![Employee data](img/Screenshot_text.png)
+![Employee data](img/Screenshot_text_version.png)
 
 ## Contributing
 1. Fork the repository.
