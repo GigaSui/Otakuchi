@@ -1,4 +1,4 @@
-# Otakuchi
+<img src="img/Logo.png"/><br>
 This is the original Tamagochi but for te otaku team, with a lot of animes and characters ! Take a good care of your favorite characters !
 
 ## Table of Contents
