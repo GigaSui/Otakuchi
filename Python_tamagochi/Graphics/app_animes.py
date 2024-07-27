@@ -3,6 +3,10 @@ from tkinter import *
 from app_characters import *
 
 class App_animes:
+
+    def sounds(self):
+        pass
+
     def __init__(self):
         self.root = Tk()
 
